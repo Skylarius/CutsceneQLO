@@ -1,0 +1,3 @@
+Aprire il file "Cutscene_QLO.exe"
+richiesti due computer per funzionare.
+In alternativa aprire il file 2 volte, inserire le impostazioni e mettere come indirizzo IP lo stesso (oppure digitare "local") e quando si aprirà il programma premere "f" per passare alla modalità finestra, sia nel primo che nel secondo
